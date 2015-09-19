@@ -1,0 +1,47 @@
+ <play 좌표>
+play_bg  기본
+woman  251 * 120
+woman_eye_A  325 * 177
+woman_eye_B  325 * 177
+guide  159 * 420
+guide_kor  159 * 420
+guide2_eng  159 * 420
+guide2_kor  159 * 420
+Icon_shop_A  0 * 189 
+Icon_shop_B  0 * 189
+help_korea  32 * 55
+help_english  32 * 55
+button_01  613 * 34
+button_02  43 * 164
+button_03  48 * 246
+button_04A  51 * 345
+button_04B  ..
+button_05A  48 * 424
+button_06  609 * 202 (아이템 아이콘들 가운데로 나왔을 때의 좌표 : x축 16)
+button_06_A  125 * 202 (아이템 창들 : 가운데로 나왔을 때의 좌표)
+button_07  609 * 323 
+button_07_A  125 * 323
+button_08  609 * 564 
+button_09  609 * 684
+button_10  609 * 805
+button_10_A  125 * 684
+button_11  609 * 925
+button_12  617 * 1164
+button_12_heart  597 * 1143
+button_13  49 * 511
+button_14  609 * 443
+button_14_A  125 * 202
+button_bg  501 * 24
+button_restart_A  35 * 1101
+button_restart_B  11 * 1103
+button_restart_C  50 * 1230
+button_top_A  26 * 20
+button_top_B  ..
+button_top_C  32 * 182
+button_top_D  4 * 79
+button_bg2  558 * 92
+
+
+
+
+

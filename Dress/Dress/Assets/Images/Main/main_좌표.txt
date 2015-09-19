@@ -1,0 +1,15 @@
+ <main 좌표>_720 * 1280 기준
+
+main_bg (960 * 1280) 기본
+main_bg_under 63 * 84 
+main_play_A  148 * 868
+main_play_B  ..
+new_game_A  28 * 1060
+new_game_B  ..
+main_06_A  548 * 1060
+main_06_B  ..
+sample_A  209 * 1067
+sample_B  193 * 1062
+diary_A  381 * 1060
+diary_B  373 * 1051
+
