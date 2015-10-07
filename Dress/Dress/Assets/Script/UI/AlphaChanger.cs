@@ -1,7 +1,7 @@
 ﻿using Dress.Core;
 using UnityEngine;
 using System.Collections;
-
+  
 public class AlphaChanger : MonoBehaviour
 {
     public float changeTime;
